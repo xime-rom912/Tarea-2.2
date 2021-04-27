@@ -4,6 +4,7 @@ function validar(num){
  else
   console.log("El numero ingresado es positivo");
 }
+
 console.log("Ingresa un numero: ");
 let num;
 process.stdin.on('data',function(data){
