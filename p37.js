@@ -14,7 +14,9 @@ let cursos = {
     historia:
         [{ nombre: 'Daniel', calificacion: 10 }]
 }
+
 let arreg = [];
+
 for (curso in cursos) {
     arreg.push(cursos[curso]);
 }
