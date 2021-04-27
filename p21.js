@@ -16,4 +16,5 @@ function impares(){
 }
 
 console.log("La suma de los pares del 1 al 1000 es "+pares());
+
 console.log("La suma de los impares del 1 al 1000 es "+impares());
