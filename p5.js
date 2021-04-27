@@ -6,5 +6,6 @@ function print(){
  }
  return suma;
 }
+
 let result = print();
 console.log("Hay "+result+"  numeros impares");
