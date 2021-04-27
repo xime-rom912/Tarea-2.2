@@ -1,5 +1,6 @@
 console.log("Ingresa un numero mayo o igual a 1");
 let numero=0, x=0;
+
 process.stdin.on('data',function(data){
  numero = data.toString();
  if(numero > 1){
