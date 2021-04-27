@@ -11,7 +11,6 @@ const archivo = readline.createInterface({
     input: fs.createReadStream('./DATOS.DAT'),
     crlfDelay: Infinity
 });
-
 archivo.on('line', (line) => {
     let obj = JSON.parse(line);
     map.set(obj.id, obj);
