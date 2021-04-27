@@ -7,6 +7,7 @@ function validar(num){
 
 console.log("Ingresa un numero: ");
 let num;
+
 process.stdin.on('data',function(data){
  num = data.toString();
  validar(num);
