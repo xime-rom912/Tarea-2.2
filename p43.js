@@ -18,6 +18,7 @@ function processObj(obj,atr, valor){
             throw 'No atribute found';
     }
 }
+
 let map = new Map();
 
 const leer = readline.createInterface({
