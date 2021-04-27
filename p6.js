@@ -5,6 +5,7 @@ function print(num){
 
 console.log("Ingresa hasta que numero quieres imprimir: ");
 var limite;
+
 process.stdin.on('data',function(data){
  limite = data.toString();
  print(limite);
