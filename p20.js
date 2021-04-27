@@ -4,6 +4,7 @@ function factorial(num){
   fac = fac * i;
  return fac;
 }
+
 console.log("Ingresa un numero ");
 var numero;
 process.stdin.on('data',function(data){
