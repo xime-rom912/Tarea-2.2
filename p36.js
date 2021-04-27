@@ -22,6 +22,5 @@ function matriz(){
  }
  console.log(numeros2);
 }
-
 matriz();
 
