@@ -10,5 +10,4 @@ function matriz(){
  }
  console.log(numeros);
 }
-
 matriz();
