@@ -6,7 +6,6 @@ const leer = readline.createInterface({
     input: process.stdin,
     output: process.stdout
 });
-
 const archivo = readline.createInterface({
     input: fs.createReadStream('./DATOS.DAT'),
     crlfDelay: Infinity
