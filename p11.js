@@ -8,6 +8,7 @@ function validar(num){
  }
  return conte;
 }
+
 console.log("Ingresa hasta que numero: ");
 let num;
 process.stdin.on('data',function(data){
