@@ -6,5 +6,4 @@ function azar(){
  else
   return "Cruz";
 }
-
 console.log(azar());
