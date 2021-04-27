@@ -9,5 +9,4 @@ for(let i = 0; i < 3; i++){
         caden += '\n';
     }
 }
-
 console.log(caden);
