@@ -18,6 +18,7 @@ function processObj(obj,atr, valor){
             throw 'No atribute found';
     }
 }
+
 let lista = new Array();
 
 const leer = readline.createInterface({
