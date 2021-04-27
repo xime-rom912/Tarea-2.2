@@ -1,6 +1,7 @@
 let nombres = [];
 let conte = 0;
 console.log("Ingresa 20 nombres: \n1:")
+
 process.stdin.on('data',function(data){
  nombres[conte] = data.toString().trim();
  if (conte == 19){
