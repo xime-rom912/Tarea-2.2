@@ -1,6 +1,7 @@
 console.log("Ingresa un numero mayor o igual a 1");
 let numero=0;
 let romano="";
+
 process.stdin.on('data',function(data){
  numero = data.toString().trim();
  if(numero < 5000 && numero >= 0){
