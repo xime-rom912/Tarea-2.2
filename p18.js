@@ -1,6 +1,7 @@
 console.log("Escribe una frase y la letra que quiere buscar");
 var frase = [];
 let conte = 0, apar = 0;
+
 process.stdin.on('data',function(data){
  frase[conte] = data.toString().trim();
  if(conte == 1){
