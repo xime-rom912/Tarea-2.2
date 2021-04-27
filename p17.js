@@ -13,6 +13,7 @@ function print(num,num2){
 console.log("Ingresa 2 numero, el segundo debe ser mayor/igual que el primero ");
 var numero = [];
 let conte = 0;
+
 process.stdin.on('data',function(data){
  numero[conte] = data.toString().trim();
  if(conte == 1){
