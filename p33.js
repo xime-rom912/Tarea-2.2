@@ -1,6 +1,7 @@
 let calif = [];
 let conte = 0, suma = 0;
 console.log("Ingresa las 10 calificaciones del alumno: \n1:")
+
 process.stdin.on('data',function(data){
  calif[conte] = parseInt(data);
  if (conte == 9){
