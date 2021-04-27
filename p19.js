@@ -1,6 +1,7 @@
 console.log("Ingresa la hora, minutos y segundos ");
 let hora = [];
 let conte=0;
+
 process.stdin.on('data',function(data){
  hora[conte] = data.toString().trim();
  if(conte == 2){
