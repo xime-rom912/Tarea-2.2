@@ -19,7 +19,6 @@ function ventasTot(num, sellers) {
 let months = ['Enero', 'Febrero','Marzo', 'Abril', 'Mayo','Junio', 'Julio', 'Agosto','Septiembre', 'Octubre','Noviembre', 'Diciembre'];
 let vendedores = ['Kevin', 'Martin', 'Soledad']
 let ventas = ventasTot(4, vendedores);
-
 ventas.forEach((producto, numero) => {
     console.log(`Ventas producto ${numero}`);
     producto.forEach((mes, numero) => {
