@@ -20,6 +20,7 @@ function print(num1,num2){
 console.log("Ingresa 2 numeros ");
 let numero = [0,0];
 let conte = 0;
+
 process.stdin.on('data',function(data){
  numero[conte] = data.toString();
  if(conte == 1){
