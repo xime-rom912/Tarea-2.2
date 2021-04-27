@@ -4,5 +4,4 @@ function print(){
   numeros[i]= i;
  return numeros;
 }
-
 console.log(print());
