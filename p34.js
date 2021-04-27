@@ -1,6 +1,7 @@
 let calif = [10,8,9,5,10,7,9,3,4,9];
 let buscar = 0, posi = 0, band = "no";
 console.log("Ingresa la calificacion que quieres buscar")
+
 process.stdin.on('data',function(data){
  buscar = parseInt(data);
  for(let i = 0; i<10; i++){
