@@ -14,6 +14,7 @@ function print(numero){
 console.log("Ingresa 5 numeros ");
 let numero = [0,0,0,0,0];
 let conte = 0;
+
 process.stdin.on('data',function(data){
  numero[conte] = data.toString();
  if(conte == 4){
