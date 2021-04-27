@@ -1,6 +1,7 @@
 console.log("Ingresa la frase ");
 var frase = "";
 let espacios = "", aux = "";
+
 process.stdin.on('data',function(data){
  frase = data.toString();
  aux = frase;
