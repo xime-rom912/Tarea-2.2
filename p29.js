@@ -9,5 +9,4 @@ function azar(){
  }
  console.log("Hubo "+total+" dieces en 100 tiradas de 2 dados");
 }
-
 azar();
