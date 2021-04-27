@@ -16,6 +16,7 @@ function divi(num1,num2){
 var resp=[];
 let cont = 0;
 console.log("Menu: \n 1.Sumar\n 2.Restar \n 3.Multiplicar\n 4.Dividir\nIngresa un valor del 1 al 5 y posteriormente los 2 numeros con los que quieres trabajar");
+
 process.stdin.on('data',function(data){
  resp[cont] = data.toString();
  if(cont == 2){
