@@ -9,5 +9,4 @@ function suma(){
  console.log("La suma de los pares es "+suma1);
  console.log("La suma de los impares es "+suma2);
 }
-
 suma();
