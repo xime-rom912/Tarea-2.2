@@ -7,6 +7,5 @@ function suma(){
   }
  console.log("Hay "+suma+" multiplos de 2 y 3, del 1 al 100");
 }
-
 suma();
 
