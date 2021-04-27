@@ -4,5 +4,4 @@ function suma(){
   result += i;
  return result;
 }
-
 console.log(suma());
