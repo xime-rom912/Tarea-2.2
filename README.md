@@ -1,9 +1,9 @@
 # Tarea-2.2
 2.2. Tarea | Problemas de programación básica. Desarrollo basado en plataformas  
-##Autora
+## Autora
 --Ximena Romero Chavez 			329898			6CC2
 
-###Problemas
+### Problemas
 Vamos  a  practicar  un  poco  acerca  de  nuestro  lenguaje  de  programación,  resuelve  los siguientes problemas utilizando javascript. 
 1.- Hacer un programa que imprima los números del 1 al 100.
 2.- Hacer un programa que imprima los números del 100 al 0, en orden decreciente. 
