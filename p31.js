@@ -4,6 +4,7 @@ function factorial(num){
   fac = fac * i;
  return fac;
 }
+
 function primo(numero){
  let x = 0;
  if(numero > 1){
