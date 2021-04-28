@@ -1,7 +1,7 @@
 # Tarea-2.2
 2.2. Tarea | Problemas de programación básica. Desarrollo basado en plataformas  
 ## Autora
---Ximena Romero Chavez 			329898			6CC2
+--Ximena Romero Chavez 			329898			6CC1
 
 ### Problemas
 Vamos  a  practicar  un  poco  acerca  de  nuestro  lenguaje  de  programación,  resuelve  los siguientes problemas utilizando javascript. 
